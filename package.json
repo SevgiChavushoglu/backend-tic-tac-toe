@@ -8,7 +8,7 @@
     "start:dev": " ts-node server.ts",
     "postinstall": "tsc"
   },
-  "author": "your name here",
+  "author": "Sevgi",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "~1.4.4",
